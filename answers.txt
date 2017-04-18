@@ -1,1 +1,5 @@
 
+child output: 
+p1=2
+parent output
+p2=0
