@@ -1,5 +1,7 @@
 
 child output: 
 p1=2
+p2=1
+
 parent output
 p2=0
